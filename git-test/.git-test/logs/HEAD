@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 39904680b4c2a4c9cf0dd0fe8a82403274d81b8c nick <nschmoll@csumb.edu> 1517851451 +0000	initial pull
+39904680b4c2a4c9cf0dd0fe8a82403274d81b8c 39904680b4c2a4c9cf0dd0fe8a82403274d81b8c nick <nschmoll@csumb.edu> 1517851489 +0000	checkout: moving from master to new-branch
+39904680b4c2a4c9cf0dd0fe8a82403274d81b8c ee989017fdbfb1034d13cda29cf2fba092cec66c nick <nschmoll@csumb.edu> 1517851546 +0000	commit: first commit
+ee989017fdbfb1034d13cda29cf2fba092cec66c f30ee86fee05641706a469e08c6a657c64d3970a nick <nschmoll@csumb.edu> 1517852110 +0000	commit: second commit, changed a file
+f30ee86fee05641706a469e08c6a657c64d3970a 39904680b4c2a4c9cf0dd0fe8a82403274d81b8c nick <nschmoll@csumb.edu> 1518020871 +0000	checkout: moving from new-branch to master
+39904680b4c2a4c9cf0dd0fe8a82403274d81b8c 24adf09832cf51a06265053cde9ae1685b6824e8 nick <nschmoll@csumb.edu> 1518021078 +0000	commit: testing this stuff
+24adf09832cf51a06265053cde9ae1685b6824e8 6b61d10e4ca4bb215170095b2d86a7e94f198259 nick <nschmoll@csumb.edu> 1518022023 +0000	pull origin master: Merge made by the 'recursive' strategy.

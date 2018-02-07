@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<!-- focus on these properties:
+    display, padding, margin, position, float
+-->
+
+<html>
+    <head>
+        <title>iLearn Layout</title>
+        <style>
+            div{
+                border: 1px solid black;
+            }
+            .row{
+                margin: 10px;
+            }
+            
+            .col {
+               padding: 10px;
+            }
+            .right-col{
+                display:inline-block;
+            }
+        </style>
+    </head>
+    <!--outer "div"-->
+    <body> 
+        <!--for padding-->
+        <div> 
+            <!--header section-->
+            <div>
+                <!--menu-->
+                <div class="row">
+                    ilearn help recources
+                </div>
+                <!--title and breadcrumbs-->
+                <div class="row">
+                    cst 336 internet
+                </div>
+            </div>
+            <!--body section-->
+            <div>
+                <!--left nav-->
+                <div class = "col">
+                    admin nav
+                </div>
+                <!--main content-->
+                <div class = "col">
+                    welcome, weekly
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
