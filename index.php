@@ -14,6 +14,7 @@ main overview page
         <h1>Nick Schmoll</h1>
     </header>
     
+    <?php include_once("/labs/personal_portfolio/index.html"); ?>
     <nav>
         <hr width="50%" />
         <a href="/assignments/HW1/index.html">HW1</a>
