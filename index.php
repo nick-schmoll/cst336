@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE php>
+<php>
 <!-- 
 main overview page
 -->
@@ -19,15 +19,6 @@ main overview page
         <a href="/assignments/HW1/index.html">HW1</a>
         <a href="/labs/personal_portfolio/index.html">lab1</a>
     </nav>
-    <br /><br />
-    <footer>
-        <hr>
-         <figure id="csumb_logo">
-            <img src="img/csumb_logo.png" alt="Picture of CSUMB logo" />
-        </figure>
-        cst238. 2018&copy; Schmoll <br />
-        for academic purposes only.
-    </footer>
-    
+
 </body>
-</html>
+</php>
