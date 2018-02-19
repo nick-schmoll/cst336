@@ -52,6 +52,4 @@ function play()
    displayPoints($randomValue1, $randomValue2, $randomValue3);
 }
 
-
-
 ?>

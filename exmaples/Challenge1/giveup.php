@@ -14,5 +14,5 @@
     setcookie (session_id(), "", time() - 3600);
     session_destroy();
     
-    header('Location: '. 'start.php');
+    header('Location: '. 'index.php');
 ?>
