@@ -16,10 +16,12 @@ $host = '127.0.0.1';
 $port = 3306;
 $dbname = 'lab4';
 $username = getenv('nickschmoll');
-$password = '';
+$password = 'Lalaland1!';
 
 $dbConn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
 
+
+var_dump($username);
 // Raise error if something is wrong with the connection
 $dbConn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
