@@ -1,4 +1,5 @@
 <?php
+    session_start();
     include 'functions.php';
 ?>
 
@@ -14,12 +15,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> Lab 4 </title>
+        <title> project 1 </title>
         <link href="style.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
        <main>
-        <h1> Tech Checkout </h1>
+        <h1> food Checkout </h1>
    
           <form method="post">
           	  Sort by: 
@@ -36,9 +37,11 @@
           </form>
           <hr>
           
-          <?php
-            showTable();
-          ?>
+              <?php
+              showTable();
+              ?>
+              
+          </form> 
         </main>
     </body>
 </html>

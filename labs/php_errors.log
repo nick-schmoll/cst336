@@ -12,3 +12,4 @@ Stack trace:
 #2 {main}
   thrown in /home/ubuntu/workspace/labs/lab4/functions.php on line 23
 [14-Mar-2018 16:11:34 UTC] PHP Notice:  Undefined index: sort in /home/ubuntu/workspace/labs/lab4/index.php on line 10
+[26-Mar-2018 00:12:33 UTC] PHP Notice:  Undefined index: sort in /home/ubuntu/workspace/labs/lab4/index.php on line 10
