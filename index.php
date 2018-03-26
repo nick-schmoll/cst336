@@ -16,5 +16,10 @@
             <a href="/assignments/HW1">HW1</a>
             <a href="/assignments/HW2">HW2</a>
         </div>
+        <div>
+            <h2>Projects</h2>
+            <a href="/projects/project_1">project 1</a>
+
+        </div>
     </body>
 </html>

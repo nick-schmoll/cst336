@@ -58,7 +58,7 @@
             while ($row = $stmt -> fetch())  {
                 
                 // echo  '<tr>' . '<td><input type="checkbox" name="items[]" />' . $row['foodName'] . "</td>" . " " . '<td>' . $row['foodType'] . '</td>'  . " " . '<td>' . $row['price'] . '</td>'  . " " . '<td>' .  $row['status'] . '</td>'  . '</tr>';
-                 echo  '<tr>' . '<td><input type="checkbox" name="items[]" value = "' . $row['foodName'] . "  " .  $row['price'] . '"  />' . $row['foodName'] . "</td>" . " " . '<td>' . $row['foodType'] . '</td>'  . " " . '<td>' . $row['price'] . '</td>'  . " " . '<td>' .  $row['status'] . '</td>'  . '</tr>';
+                 echo  '<tr>' . '<td><input type="checkbox" name="items[]" value = "' . $row['foodName'] . "  $" .  $row['price'] . '"  />' . $row['foodName'] . "</td>" . " " . '<td>' . $row['foodType'] . '</td>'  . " " . '<td>' . $row['price'] . '</td>'  . " " . '<td>' .  $row['status'] . '</td>'  . '</tr>';
 
                 
             }
